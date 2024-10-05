@@ -1,9 +1,9 @@
-# Navbar Dropdown v1
+# Haala Homes
 
-A simple project with a navbar dropdown feature.
+Collaborative platform for designers, builders and architects.
 
 ## Homepage
-[Hala Homes](https://halahomes.waysdatalabs.com)
+[Haala Homes](https://halahomes.waysdatalabs.com)
 
 ## Version
 0.1.0
