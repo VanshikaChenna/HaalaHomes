@@ -43,7 +43,7 @@ Collaborative platform for designers, builders and architects.
 
 1. Clone the repository:
     ```bash
-    git clone https://your-repo-url.git
+    git clone https://github.com/VanshikaChenna/HaalaHomes
     ```
 
 2. Install dependencies:
